@@ -25,8 +25,6 @@ import miniprojet.bentaleb.othmane.ecommerce.fragments.ProductsListFragment;
 
 public class MainActivity extends ActionBarActivity {
 
-    // add a comment
-
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
     private ActionBarDrawerToggle mDrawerToggle;
